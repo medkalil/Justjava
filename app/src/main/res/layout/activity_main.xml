@@ -110,7 +110,7 @@
         android:layout_margin="16sp"
         android:onClick="submitOrder"
         android:text="ORDER"
-        android:textColor="#002097"
+        android:textColor="@android:color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.055"
